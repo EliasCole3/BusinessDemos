@@ -1,0 +1,5 @@
+Day2Test2.MainActivity;day2test2.MainActivity
+Day2Test2.FragmentClass;day2test2.FragmentClass
+Day2Test2.DetailsActivity;day2test2.DetailsActivity
+Day2Test2.DetailsFragment;day2test2.DetailsFragment
+Day2Test2.TideAdapter;day2test2.TideAdapter

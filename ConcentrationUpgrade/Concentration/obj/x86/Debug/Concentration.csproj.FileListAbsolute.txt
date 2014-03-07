@@ -1,0 +1,42 @@
+E:\LCC\LCC Spring 2013\CS233N\Lab 1\ConcentrationStart\Concentration\bin\Debug\Concentration.exe
+E:\LCC\LCC Spring 2013\CS233N\Lab 1\ConcentrationStart\Concentration\bin\Debug\Concentration.pdb
+E:\LCC\LCC Spring 2013\CS233N\Lab 1\ConcentrationStart\Concentration\obj\x86\Debug\Concentration.csprojResolveAssemblyReference.cache
+E:\LCC\LCC Spring 2013\CS233N\Lab 1\ConcentrationStart\Concentration\obj\x86\Debug\Concentration.boardForm.resources
+E:\LCC\LCC Spring 2013\CS233N\Lab 1\ConcentrationStart\Concentration\obj\x86\Debug\Concentration.Properties.Resources.resources
+E:\LCC\LCC Spring 2013\CS233N\Lab 1\ConcentrationStart\Concentration\obj\x86\Debug\Concentration.csproj.GenerateResource.Cache
+E:\LCC\LCC Spring 2013\CS233N\Lab 1\ConcentrationStart\Concentration\obj\x86\Debug\Concentration.exe
+E:\LCC\LCC Spring 2013\CS233N\Lab 1\ConcentrationStart\Concentration\obj\x86\Debug\Concentration.pdb
+E:\LCC\LCC Spring 2013\CS233N\Lab 1\ConcentrationStart - Copy\Concentration\obj\x86\Debug\Concentration.exe
+E:\LCC\LCC Spring 2013\CS233N\Lab 1\ConcentrationStart - Copy\Concentration\obj\x86\Debug\Concentration.pdb
+E:\LCC\LCC Spring 2013\CS233N\Lab 1\ConcentrationStart - Copy\Concentration\bin\Debug\Concentration.exe
+E:\LCC\LCC Spring 2013\CS233N\Lab 1\ConcentrationStart - Copy\Concentration\bin\Debug\Concentration.pdb
+E:\LCC\LCC Spring 2013\CS233N\Lab 1\ConcentrationStart - Copy\Concentration\obj\x86\Debug\Concentration.csprojResolveAssemblyReference.cache
+E:\LCC\LCC Spring 2013\CS233N\Lab 1\ConcentrationStart - Copy\Concentration\obj\x86\Debug\Concentration.boardForm.resources
+E:\LCC\LCC Spring 2013\CS233N\Lab 1\ConcentrationStart - Copy\Concentration\obj\x86\Debug\Concentration.Properties.Resources.resources
+E:\LCC\LCC Spring 2013\CS233N\Lab 1\ConcentrationStart - Copy\Concentration\obj\x86\Debug\Concentration.csproj.GenerateResource.Cache
+E:\LCC\LCC Spring 2013\CS233N\Lab 1\ConcentrationStart - Upgrade\Concentration\obj\x86\Debug\Concentration.exe
+E:\LCC\LCC Spring 2013\CS233N\Lab 1\ConcentrationStart - Upgrade\Concentration\obj\x86\Debug\Concentration.pdb
+E:\LCC\LCC Spring 2013\CS233N\Lab 1\ConcentrationStart - Upgrade\Concentration\bin\Debug\Concentration.exe
+E:\LCC\LCC Spring 2013\CS233N\Lab 1\ConcentrationStart - Upgrade\Concentration\bin\Debug\Concentration.pdb
+E:\LCC\LCC Spring 2013\CS233N\Lab 1\ConcentrationStart - Upgrade\Concentration\obj\x86\Debug\Concentration.csprojResolveAssemblyReference.cache
+E:\LCC\LCC Spring 2013\CS233N\Lab 1\ConcentrationStart - Upgrade\Concentration\obj\x86\Debug\Concentration.boardForm.resources
+E:\LCC\LCC Spring 2013\CS233N\Lab 1\ConcentrationStart - Upgrade\Concentration\obj\x86\Debug\Concentration.Properties.Resources.resources
+E:\LCC\LCC Spring 2013\CS233N\Lab 1\ConcentrationStart - Upgrade\Concentration\obj\x86\Debug\Concentration.csproj.GenerateResource.Cache
+E:\LCC\LCCSpring2013\CS233N\Lab 1\ConcentrationStart - Upgrade\Concentration\obj\x86\Debug\Concentration.exe
+E:\LCC\LCCSpring2013\CS233N\Lab 1\ConcentrationStart - Upgrade\Concentration\obj\x86\Debug\Concentration.pdb
+E:\LCC\LCCSpring2013\CS233N\Lab 1\ConcentrationStart - Upgrade\Concentration\bin\Debug\Concentration.exe
+E:\LCC\LCCSpring2013\CS233N\Lab 1\ConcentrationStart - Upgrade\Concentration\bin\Debug\Concentration.pdb
+E:\LCC\LCCSpring2013\CS233N\Lab 1\ConcentrationStart - Upgrade\Concentration\obj\x86\Debug\Concentration.csprojResolveAssemblyReference.cache
+E:\LCC\LCCSpring2013\CS233N\Lab 1\ConcentrationStart - Upgrade\Concentration\obj\x86\Debug\Concentration.boardForm.resources
+E:\LCC\LCCSpring2013\CS233N\Lab 1\ConcentrationStart - Upgrade\Concentration\obj\x86\Debug\Concentration.Properties.Resources.resources
+E:\LCC\LCCSpring2013\CS233N\Lab 1\ConcentrationStart - Upgrade\Concentration\obj\x86\Debug\Concentration.csproj.GenerateResource.Cache
+F:\LCC\LCCSpring2013\CS233N\Lab 1\ConcentrationStart - Upgrade\Concentration\obj\x86\Debug\Concentration.exe
+F:\LCC\LCCSpring2013\CS233N\Lab 1\ConcentrationStart - Upgrade\Concentration\obj\x86\Debug\Concentration.pdb
+C:\Users\Elias\Desktop\ConcentrationStart - Upgrade\Concentration\obj\x86\Debug\Concentration.exe
+C:\Users\Elias\Desktop\ConcentrationStart - Upgrade\Concentration\obj\x86\Debug\Concentration.pdb
+C:\Users\Elias\Desktop\ConcentrationStart - Upgrade\Concentration\bin\Debug\Concentration.exe
+C:\Users\Elias\Desktop\ConcentrationStart - Upgrade\Concentration\bin\Debug\Concentration.pdb
+C:\Users\Elias\Desktop\ConcentrationStart - Upgrade\Concentration\obj\x86\Debug\Concentration.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Desktop\ConcentrationStart - Upgrade\Concentration\obj\x86\Debug\Concentration.boardForm.resources
+C:\Users\Elias\Desktop\ConcentrationStart - Upgrade\Concentration\obj\x86\Debug\Concentration.Properties.Resources.resources
+C:\Users\Elias\Desktop\ConcentrationStart - Upgrade\Concentration\obj\x86\Debug\Concentration.csproj.GenerateResource.Cache
