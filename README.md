@@ -1,4 +1,0 @@
-BusinessDemos
-=============
-
-Demos for business
