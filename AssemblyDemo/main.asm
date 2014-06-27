@@ -4,6 +4,16 @@ TITLE Program 					(main.asm)
 ;CS271
 ;Program 4
 
+;This program:
+;	*Generates an array of 10-200 numbers(user specified) in the range[100-999]
+;	*Displays the array
+;	*Sorts the array
+;	*Displays the array again
+;	*Finds and displays the median value of the array
+
+;Note: The folder with the irvine libraries must be in the root folder. This folder is included in the project folder for this file
+;Note: To keep the window open, choose "run without debugging"
+
 INCLUDE Irvine32.inc
 MAXSIZE = 200
 HIBOUND = 999
@@ -16,7 +26,7 @@ userInput	DWORD	?
 
 msgIntro BYTE "Name: Elias Cole  Program 4",0
 msgOutro BYTE "Fin.",0
-msgPrompt BYTE "Please enter the number of numbers you would like put into an array: ",0
+msgPrompt BYTE "Please enter the number of numbers you would like put into an array [10-200]: ",0
 msgLess10 BYTE "Your number is less than 10",0
 msgMore200 BYTE "Your number is more than 200",0
 msgMedian BYTE "The Median is: ",0
