@@ -40,3 +40,5 @@ C:\Users\Elias\Desktop\ConcentrationStart - Upgrade\Concentration\obj\x86\Debug\
 C:\Users\Elias\Desktop\ConcentrationStart - Upgrade\Concentration\obj\x86\Debug\Concentration.boardForm.resources
 C:\Users\Elias\Desktop\ConcentrationStart - Upgrade\Concentration\obj\x86\Debug\Concentration.Properties.Resources.resources
 C:\Users\Elias\Desktop\ConcentrationStart - Upgrade\Concentration\obj\x86\Debug\Concentration.csproj.GenerateResource.Cache
+C:\Users\Elias\Documents\GitHub\BusinessDemos\MatchingGameDemo\Concentration\obj\x86\Debug\Concentration.exe
+C:\Users\Elias\Documents\GitHub\BusinessDemos\MatchingGameDemo\Concentration\obj\x86\Debug\Concentration.pdb

@@ -32,8 +32,6 @@ msgMore200 BYTE "Your number is more than 200",0
 msgMedian BYTE "The Median is: ",0
 
 
-
-
 .code
 main PROC  
 
@@ -291,11 +289,5 @@ Outro PROC
 	
 	ret
 Outro ENDP
-
-
-
-
-
-
 
 END main

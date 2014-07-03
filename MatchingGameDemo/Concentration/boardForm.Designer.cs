@@ -82,7 +82,9 @@
             // 
             // card1
             // 
+            this.card1.ErrorImage = ((System.Drawing.Image)(resources.GetObject("card1.ErrorImage")));
             this.card1.Image = ((System.Drawing.Image)(resources.GetObject("card1.Image")));
+            this.card1.InitialImage = ((System.Drawing.Image)(resources.GetObject("card1.InitialImage")));
             this.card1.Location = new System.Drawing.Point(21, 18);
             this.card1.Margin = new System.Windows.Forms.Padding(2);
             this.card1.Name = "card1";
@@ -93,7 +95,9 @@
             // 
             // card2
             // 
+            this.card2.ErrorImage = ((System.Drawing.Image)(resources.GetObject("card2.ErrorImage")));
             this.card2.Image = ((System.Drawing.Image)(resources.GetObject("card2.Image")));
+            this.card2.InitialImage = ((System.Drawing.Image)(resources.GetObject("card2.InitialImage")));
             this.card2.Location = new System.Drawing.Point(121, 18);
             this.card2.Margin = new System.Windows.Forms.Padding(2);
             this.card2.Name = "card2";
@@ -104,7 +108,9 @@
             // 
             // card3
             // 
+            this.card3.ErrorImage = ((System.Drawing.Image)(resources.GetObject("card3.ErrorImage")));
             this.card3.Image = ((System.Drawing.Image)(resources.GetObject("card3.Image")));
+            this.card3.InitialImage = ((System.Drawing.Image)(resources.GetObject("card3.InitialImage")));
             this.card3.Location = new System.Drawing.Point(215, 18);
             this.card3.Margin = new System.Windows.Forms.Padding(2);
             this.card3.Name = "card3";
@@ -115,7 +121,9 @@
             // 
             // card4
             // 
+            this.card4.ErrorImage = ((System.Drawing.Image)(resources.GetObject("card4.ErrorImage")));
             this.card4.Image = ((System.Drawing.Image)(resources.GetObject("card4.Image")));
+            this.card4.InitialImage = ((System.Drawing.Image)(resources.GetObject("card4.InitialImage")));
             this.card4.Location = new System.Drawing.Point(312, 18);
             this.card4.Margin = new System.Windows.Forms.Padding(2);
             this.card4.Name = "card4";
@@ -126,7 +134,9 @@
             // 
             // card5
             // 
+            this.card5.ErrorImage = ((System.Drawing.Image)(resources.GetObject("card5.ErrorImage")));
             this.card5.Image = ((System.Drawing.Image)(resources.GetObject("card5.Image")));
+            this.card5.InitialImage = ((System.Drawing.Image)(resources.GetObject("card5.InitialImage")));
             this.card5.Location = new System.Drawing.Point(413, 18);
             this.card5.Margin = new System.Windows.Forms.Padding(2);
             this.card5.Name = "card5";
@@ -137,7 +147,9 @@
             // 
             // card6
             // 
+            this.card6.ErrorImage = ((System.Drawing.Image)(resources.GetObject("card6.ErrorImage")));
             this.card6.Image = ((System.Drawing.Image)(resources.GetObject("card6.Image")));
+            this.card6.InitialImage = ((System.Drawing.Image)(resources.GetObject("card6.InitialImage")));
             this.card6.Location = new System.Drawing.Point(21, 158);
             this.card6.Margin = new System.Windows.Forms.Padding(2);
             this.card6.Name = "card6";
@@ -148,7 +160,9 @@
             // 
             // card19
             // 
+            this.card19.ErrorImage = ((System.Drawing.Image)(resources.GetObject("card19.ErrorImage")));
             this.card19.Image = ((System.Drawing.Image)(resources.GetObject("card19.Image")));
+            this.card19.InitialImage = ((System.Drawing.Image)(resources.GetObject("card19.InitialImage")));
             this.card19.Location = new System.Drawing.Point(316, 432);
             this.card19.Margin = new System.Windows.Forms.Padding(2);
             this.card19.Name = "card19";
@@ -159,7 +173,9 @@
             // 
             // card18
             // 
+            this.card18.ErrorImage = ((System.Drawing.Image)(resources.GetObject("card18.ErrorImage")));
             this.card18.Image = ((System.Drawing.Image)(resources.GetObject("card18.Image")));
+            this.card18.InitialImage = ((System.Drawing.Image)(resources.GetObject("card18.InitialImage")));
             this.card18.Location = new System.Drawing.Point(219, 432);
             this.card18.Margin = new System.Windows.Forms.Padding(2);
             this.card18.Name = "card18";
@@ -170,7 +186,9 @@
             // 
             // card17
             // 
+            this.card17.ErrorImage = ((System.Drawing.Image)(resources.GetObject("card17.ErrorImage")));
             this.card17.Image = ((System.Drawing.Image)(resources.GetObject("card17.Image")));
+            this.card17.InitialImage = ((System.Drawing.Image)(resources.GetObject("card17.InitialImage")));
             this.card17.Location = new System.Drawing.Point(121, 432);
             this.card17.Margin = new System.Windows.Forms.Padding(2);
             this.card17.Name = "card17";
@@ -181,7 +199,9 @@
             // 
             // card16
             // 
+            this.card16.ErrorImage = ((System.Drawing.Image)(resources.GetObject("card16.ErrorImage")));
             this.card16.Image = ((System.Drawing.Image)(resources.GetObject("card16.Image")));
+            this.card16.InitialImage = ((System.Drawing.Image)(resources.GetObject("card16.InitialImage")));
             this.card16.Location = new System.Drawing.Point(21, 432);
             this.card16.Margin = new System.Windows.Forms.Padding(2);
             this.card16.Name = "card16";
@@ -192,7 +212,9 @@
             // 
             // card15
             // 
+            this.card15.ErrorImage = ((System.Drawing.Image)(resources.GetObject("card15.ErrorImage")));
             this.card15.Image = ((System.Drawing.Image)(resources.GetObject("card15.Image")));
+            this.card15.InitialImage = ((System.Drawing.Image)(resources.GetObject("card15.InitialImage")));
             this.card15.Location = new System.Drawing.Point(413, 295);
             this.card15.Margin = new System.Windows.Forms.Padding(2);
             this.card15.Name = "card15";
@@ -203,7 +225,9 @@
             // 
             // card14
             // 
+            this.card14.ErrorImage = ((System.Drawing.Image)(resources.GetObject("card14.ErrorImage")));
             this.card14.Image = ((System.Drawing.Image)(resources.GetObject("card14.Image")));
+            this.card14.InitialImage = ((System.Drawing.Image)(resources.GetObject("card14.InitialImage")));
             this.card14.Location = new System.Drawing.Point(312, 295);
             this.card14.Margin = new System.Windows.Forms.Padding(2);
             this.card14.Name = "card14";
@@ -214,7 +238,9 @@
             // 
             // card20
             // 
+            this.card20.ErrorImage = ((System.Drawing.Image)(resources.GetObject("card20.ErrorImage")));
             this.card20.Image = ((System.Drawing.Image)(resources.GetObject("card20.Image")));
+            this.card20.InitialImage = ((System.Drawing.Image)(resources.GetObject("card20.InitialImage")));
             this.card20.Location = new System.Drawing.Point(413, 432);
             this.card20.Margin = new System.Windows.Forms.Padding(2);
             this.card20.Name = "card20";
@@ -225,7 +251,9 @@
             // 
             // card12
             // 
+            this.card12.ErrorImage = ((System.Drawing.Image)(resources.GetObject("card12.ErrorImage")));
             this.card12.Image = ((System.Drawing.Image)(resources.GetObject("card12.Image")));
+            this.card12.InitialImage = ((System.Drawing.Image)(resources.GetObject("card12.InitialImage")));
             this.card12.Location = new System.Drawing.Point(121, 295);
             this.card12.Margin = new System.Windows.Forms.Padding(2);
             this.card12.Name = "card12";
@@ -236,7 +264,9 @@
             // 
             // card11
             // 
+            this.card11.ErrorImage = ((System.Drawing.Image)(resources.GetObject("card11.ErrorImage")));
             this.card11.Image = ((System.Drawing.Image)(resources.GetObject("card11.Image")));
+            this.card11.InitialImage = ((System.Drawing.Image)(resources.GetObject("card11.InitialImage")));
             this.card11.Location = new System.Drawing.Point(21, 295);
             this.card11.Margin = new System.Windows.Forms.Padding(2);
             this.card11.Name = "card11";
@@ -247,7 +277,9 @@
             // 
             // card10
             // 
+            this.card10.ErrorImage = ((System.Drawing.Image)(resources.GetObject("card10.ErrorImage")));
             this.card10.Image = ((System.Drawing.Image)(resources.GetObject("card10.Image")));
+            this.card10.InitialImage = ((System.Drawing.Image)(resources.GetObject("card10.InitialImage")));
             this.card10.Location = new System.Drawing.Point(413, 158);
             this.card10.Margin = new System.Windows.Forms.Padding(2);
             this.card10.Name = "card10";
@@ -258,7 +290,9 @@
             // 
             // card9
             // 
+            this.card9.ErrorImage = ((System.Drawing.Image)(resources.GetObject("card9.ErrorImage")));
             this.card9.Image = ((System.Drawing.Image)(resources.GetObject("card9.Image")));
+            this.card9.InitialImage = ((System.Drawing.Image)(resources.GetObject("card9.InitialImage")));
             this.card9.Location = new System.Drawing.Point(312, 158);
             this.card9.Margin = new System.Windows.Forms.Padding(2);
             this.card9.Name = "card9";
@@ -269,7 +303,9 @@
             // 
             // card8
             // 
+            this.card8.ErrorImage = ((System.Drawing.Image)(resources.GetObject("card8.ErrorImage")));
             this.card8.Image = ((System.Drawing.Image)(resources.GetObject("card8.Image")));
+            this.card8.InitialImage = ((System.Drawing.Image)(resources.GetObject("card8.InitialImage")));
             this.card8.Location = new System.Drawing.Point(215, 158);
             this.card8.Margin = new System.Windows.Forms.Padding(2);
             this.card8.Name = "card8";
@@ -280,7 +316,9 @@
             // 
             // card7
             // 
+            this.card7.ErrorImage = ((System.Drawing.Image)(resources.GetObject("card7.ErrorImage")));
             this.card7.Image = ((System.Drawing.Image)(resources.GetObject("card7.Image")));
+            this.card7.InitialImage = ((System.Drawing.Image)(resources.GetObject("card7.InitialImage")));
             this.card7.Location = new System.Drawing.Point(121, 158);
             this.card7.Margin = new System.Windows.Forms.Padding(2);
             this.card7.Name = "card7";
@@ -291,7 +329,9 @@
             // 
             // card13
             // 
+            this.card13.ErrorImage = ((System.Drawing.Image)(resources.GetObject("card13.ErrorImage")));
             this.card13.Image = ((System.Drawing.Image)(resources.GetObject("card13.Image")));
+            this.card13.InitialImage = ((System.Drawing.Image)(resources.GetObject("card13.InitialImage")));
             this.card13.Location = new System.Drawing.Point(215, 295);
             this.card13.Margin = new System.Windows.Forms.Padding(2);
             this.card13.Name = "card13";
